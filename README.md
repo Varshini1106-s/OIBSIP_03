@@ -27,7 +27,7 @@ Install dependencies
 
 pip install pyttsx3 SpeechRecognition pyaudio
 
-## Usage
+## 🚀Usage
 Run the assistant:
 
 bash
@@ -44,14 +44,15 @@ Then speak commands like:
 
 "Stop" or "Exit"
 
- ##How It Works
-Listens to microphone input
+ ##🧠 How It Works
 
-Converts speech to text using Google Speech Recognition
+-Listens to microphone input
 
-Matches commands like "time", "date", or "search"
+-Converts speech to text using Google Speech Recognition
 
-Speaks the appropriate response using pyttsx3
+-Matches commands like "time", "date", or "search"
 
-Exits cleanly on "exit" or "stop"
+-Speaks the appropriate response using pyttsx3
+
+-Exits cleanly on "exit" or "stop"
 
