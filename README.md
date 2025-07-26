@@ -44,7 +44,7 @@ Then speak commands like:
 
 "Stop" or "Exit"
 
- ##🧠 How It Works
+ ## 🧠How It Works
 
 -Listens to microphone input
 
